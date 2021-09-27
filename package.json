@@ -1,0 +1,24 @@
+{
+  "name": "rest_api_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cancermaker/rest_api_study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cancermaker/rest_api_study/issues"
+  },
+  "homepage": "https://github.com/Cancermaker/rest_api_study#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  }
+}
